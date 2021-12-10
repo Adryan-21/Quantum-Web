@@ -32,6 +32,3 @@ npm run lint
 
 ### Konfiguracja
 Zobacz [Informacje o konfiguracji](https://cli.vuejs.org/config/).
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
